@@ -1,0 +1,12 @@
+{
+	"checkin": "2020-08-01",
+	"checkout": "2020-08-05",
+	"adults": 1,
+	"children": 0,
+	"room_type": 1,
+	"rooms": 1,
+	"first_name": "Иван",
+	"last_name": "Прохоров",
+	"phone": "8918001010",
+	"email": "ivan@null.com"
+}
